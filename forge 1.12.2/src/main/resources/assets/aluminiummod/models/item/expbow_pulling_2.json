@@ -1,0 +1,6 @@
+{
+  "parent": "aluminiummod:item/expbow",
+  "textures": {
+    "layer0": "aluminiummod:items/expbow_3"
+  }
+}
